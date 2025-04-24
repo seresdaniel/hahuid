@@ -1,0 +1,2 @@
+# hahuid
+hirdetésazonosítókat szed ki
